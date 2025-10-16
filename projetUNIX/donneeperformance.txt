@@ -1,0 +1,7 @@
+[1;34m                 		 Performance non détaillée                           [0m                           
+[1;33m               *****************************************************************[0m
+[0;32m                *          Date et heure actuelles :[0m [1;33m2024-05-14 16:12:19[0m               
+[0;32m                *          Utilisation du CPU (%):[0m [1;33m24.8[0m               
+[0;32m                *          Utilisation de la mémoire (%):[0m [1;33m38.0304[0m    
+[0;32m                *          Utilisation du disque (%):[0m [1;33m64[0m          
+[0;32m                *          Utilisation du réseau (octets/s):[0m [1;33m0.00[0m   
