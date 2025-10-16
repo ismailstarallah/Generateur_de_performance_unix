@@ -23,7 +23,7 @@ get_cpu_load=$(cat /proc/loadavg | awk '{print "1 min:", $1, ", 5 min:", $2, ", 
 
     # Affichage des données avec des couleurs
 
-#    echo -e "${YELLOW}               ****************************************************************************${NC}"
+#    echo -e "${YELLOW}              ****************************************************************************${NC}"
     echo -e "${BLUE}                     		  	Performance de CPU                          ${NC}                           "
     echo -e "${YELLOW}               ****************************************************************************${NC}"
     echo -e "${GREEN}                *          Utilisation du CPU (%):${NC} ${YELLOW}$cpu_usage${NC}               "    
